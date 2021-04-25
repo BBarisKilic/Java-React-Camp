@@ -16,9 +16,24 @@ public class Main {
                 "Engin Demirog",
                 36);
 
-        Course[] courses = {course1, course2};
 
-        for(Course currentCourse : courses){
+        CourseManager courseManager = new CourseManager();
+
+        courseManager.addCourse(course1);
+        courseManager.addCourse(course2);
+
+        for(Course currentCourse : courseManager.courses){
+            System.out.println("== == == == ==");
+            System.out.println(currentCourse.courseImagePath);
+            System.out.println(currentCourse.courseName);
+            System.out.println(currentCourse.teacher);
+            System.out.println(currentCourse.progress);
+            System.out.println("== == == == ==");
+        }
+
+        courseManager.deleteCourse(1);
+
+        for(Course currentCourse : courseManager.courses){
             System.out.println("== == == == ==");
             System.out.println(currentCourse.courseImagePath);
             System.out.println(currentCourse.courseName);
