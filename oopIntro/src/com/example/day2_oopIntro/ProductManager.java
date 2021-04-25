@@ -1,4 +1,4 @@
-package com.example.oopIntro;
+package com.example.day2_oopIntro;
 
 public class ProductManager {
     public void addToCart(Product product) {

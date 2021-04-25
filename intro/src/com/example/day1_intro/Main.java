@@ -1,4 +1,4 @@
-package com.example.intro;
+package com.example.day1_intro;
 
 public class Main {
 
