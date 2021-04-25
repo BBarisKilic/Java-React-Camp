@@ -8,7 +8,7 @@ Take a look at camp details:
 
 ## Projects
 
-###[Day 1 - Intro](day1_intro)
+### 1. [Day 1 - Intro](day1_intro)
 
 Through this project, I've learned:
 -	variables
@@ -20,11 +20,11 @@ in Java.
 
 Screenshot of output:
 
-<p align="center"><img src="images/day2_homework1.png" width="300"></p>
+<p align="center"><img src="images/day1_intro.png" width="400"></p>
 
 ---
 
-###[Day 2 - oopIntro](day2_oopIntro)
+### 2. [Day 2 - oopIntro](day2_oopIntro)
 
 Through this project, I've learned:
 -	methods
@@ -36,16 +36,16 @@ in Java.
 
 Screenshot of output:
 
-<p align="center"><img src="images/day2_homework1.png" width="300"></p>
+<p align="center"><img src="images/day2_homework1.png" width="480"></p>
 
 ---
 
-###[Day 2 - Homework](day2_oopIntro)
+### 2.1. [Day 2 - Homework](day2_oopIntro)
 
 In this project, I repeated what I learned in oopIntro.
 
 Screenshot of output:
 
-<p align="center"><img src="images/day2_homework1.png" width="300"></p>
+<p align="center"><img src="images/day2_homework1.png" width="600"></p>
 
 ---
