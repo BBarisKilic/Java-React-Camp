@@ -20,7 +20,7 @@ in Java.
 
 Screenshot of output:
 
-<p align="center"><img src="images/day1_intro.png" width="400"></p>
+<p align="center"><img src="images/day1_intro.png" width="300"></p>
 
 ---
 
@@ -36,11 +36,11 @@ in Java.
 
 Screenshot of output:
 
-<p align="center"><img src="images/day2_homework1.png" width="480"></p>
+<p align="center"><img src="images/day2_oopIntro.png" width="360"></p>
 
 ---
 
-### 2.1. [Day 2 - Homework](day2_oopIntro)
+### 2.1. [Day 2 - Homework](day2_homework1)
 
 In this project, I repeated what I learned in oopIntro.
 
