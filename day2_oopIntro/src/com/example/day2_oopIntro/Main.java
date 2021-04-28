@@ -3,17 +3,24 @@ package com.example.day2_oopIntro;
 public class Main {
 
     public static void main(String[] args) {
-        Product product1 = new Product(1, "Lenovo V14", 15000,"16 GB Ram"); //referans oluşturma
+        Product product1 = new Product(1, "Lenovo V14", 15000,"16 GB Ram", 15); //referans oluşturma
 
-        Product product2 = new Product(2, "Lenovo V15", 16000,"32 GB Ram"); //referans oluşturma
+        Product product2 = new Product();
+        product2.setId(2);
+        product2.setName("Lenovo V15");
+        product2.setDetail("16 GB Ram");
+        product2.setDiscount(10);
+        product2.setUnitPrice(16000);
 
-        Product product3 = new Product(3, "Hp 5", 10000, "8 GB Ram"); //referans oluşturma
+        System.out.println(product2.getUnitPriceAfterDiscount());
+
+        Product product3 = new Product(3, "Hp 5", 10000, "8 GB Ram", 20); //referans oluşturma
 
         Product[] products = {product1, product2, product3};
 
         //foreach
         for(Product product : products){
-            System.out.println(product.name);
+            System.out.println(product.getName());
         }
 
         System.out.println(products.length);
