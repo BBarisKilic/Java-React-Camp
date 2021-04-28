@@ -1,0 +1,14 @@
+package com.example.day3_inheritance;
+
+public class CustomerManager {
+    public void add(Customer customer){
+        System.out.println(customer.customerNumber + " kaydedildi.");
+    }
+
+    //bulk insert
+    public void addMultiple(Customer[] customers){
+        for(Customer customer : customers){
+            add(customer);
+        }
+    }
+}
