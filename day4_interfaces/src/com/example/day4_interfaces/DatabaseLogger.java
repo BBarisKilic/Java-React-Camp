@@ -1,4 +1,4 @@
-package com.example.interfaces;
+package com.example.day4_interfaces;
 
 public class DatabaseLogger implements Logger {
 
