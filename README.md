@@ -40,7 +40,7 @@ Screenshot of output:
 
 ---
 
-### 2.1. [Day 2 - Homework](day2_homework1)
+### 2.1. [Day 2 - Homework](day2_homework)
 
 In this project, I repeated what I learned in oopIntro.
 

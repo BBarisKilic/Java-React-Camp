@@ -1,4 +1,4 @@
-package com.example.day2_homework1;
+package com.example.day2_homework;
 
 public class Main {
 
