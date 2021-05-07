@@ -1,4 +1,4 @@
-package com.example.day4_homework2.edevlet;
+package com.example.day4_homework2.eDevlet;
 
 //This is imported microservice to our project, we did not write this package.
 public class EDevletManager {

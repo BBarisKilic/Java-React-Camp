@@ -20,7 +20,7 @@ in Java.
 
 Screenshot of output:
 
-<p align="center"><img src="images/day1_intro.png" width="300"></p>
+<p align="center"><img src="images/day1_intro.png" width="720"></p>
 
 ---
 
@@ -36,7 +36,7 @@ in Java.
 
 Screenshot of output:
 
-<p align="center"><img src="images/day2_oopIntro.png" width="360"></p>
+<p align="center"><img src="images/day2_oopIntro.png" width="720"></p>
 
 ---
 
@@ -46,6 +46,6 @@ In this project, I repeated what I learned in oopIntro.
 
 Screenshot of output:
 
-<p align="center"><img src="images/day2_homework1.png" width="600"></p>
+<p align="center"><img src="images/day2_homework.png" width="720"></p>
 
 ---

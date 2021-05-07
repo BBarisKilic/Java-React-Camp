@@ -12,9 +12,6 @@ import com.example.day4_homework2.entities.concretes.Campaign;
 import com.example.day4_homework2.entities.concretes.Game;
 import com.example.day4_homework2.entities.concretes.User;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main {
 
     public static void main(String[] args) {
