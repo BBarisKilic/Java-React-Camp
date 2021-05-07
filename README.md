@@ -1,16 +1,15 @@
-# <center>Java and React Camp</center>
-
+# <p align="center">Java and React Camp</p>
 
 <p align="center"><img src="images/java_camp.jpeg" width="480"></p>
 
-## <center>Camp Details</center>
+## <p align="center">Camp Details</p>
 
 In this repository, you can see what I have done and learned through this camp.
 
 Take a look at camp details:
 - [kodlama.io](https://www.kodlama.io/)
 
-## <center>Projects</center>
+## <p align="center">Projects</p>
 
 ### 1. Day - Projects
 
@@ -23,6 +22,8 @@ Through this project, I've learned:
 -	arrays in Java.
 
 Screenshot of output:
+
+<p align="center">Output: Intro</p>
 
 <p align="center"><img src="images/day1_intro.png" width="720"></p>
 
@@ -41,11 +42,11 @@ Through these projects, I've learned:
 
 Screenshot of output:
 
-<center>Output: OopIntro</center>
+<p align="center">Output: OopIntro</p>
 
 <p align="center"><img src="images/day2_oopIntro.png" width="720"></p>
 
-<center>Output: Homework</center>
+<p align="center">Output: Homework</p>
 
 <p align="center"><img src="images/day2_homework.png" width="720"></p>
 
@@ -65,15 +66,15 @@ Through these projects, I've learned:
 
 Screenshot of output:
 
-<center>Output: Inheritance</center>
+<p align="center">Output: Inheritance</p>
 
 <p align="center"><img src="images/day3_inheritance.png" width="720"></p>
 
-<center>Output: Inheritance 2</center>
+<p align="center">Output: Inheritance 2</p>
 
 <p align="center"><img src="images/day3_inheritance2.png" width="720"></p>
 
-<center>Output: Homework</center>
+<p align="center">Output: Homework</p>
 
 <p align="center"><img src="images/day3_homework.png" width="720"></p>
 
@@ -92,15 +93,15 @@ Through these projects, I've learned:
 
 Screenshot of output:
 
-<center>Output: Interfaces</center>
+<p align="center">Output: Interfaces</p>
 
 <p align="center"><img src="images/day4_interfaces.png" width="720"></p>
 
-<center>Output: Homework</center>
+<p align="center">Output: Homework</p>
 
 <p align="center"><img src="images/day4_homework.png" width="720"></p>
 
-<center>Output: Homework 2</center>
+<p align="center">Output: Homework 2</p>
 
 <p align="center"><img src="images/day4_homework2.png" width="720"></p>
 
@@ -118,11 +119,11 @@ Through these projects, I've learned:
 
 Screenshot of output:
 
-<center>Output: N-Layered Demo</center>
+<p align="center">Output: N-Layered Demo</p>
 
 <p align="center"><img src="images/day5_nLayeredDemo.png" width="720"></p>
 
-<center>Output: Homework</center>
+<p align="center">Output: Homework</p>
 
 <p align="center"><img src="images/day5_homework.png" width="720"></p>
 
