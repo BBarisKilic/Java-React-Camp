@@ -11,7 +11,7 @@ Take a look at camp details:
 
 ## <p align="center">Projects</p>
 
-### 1. Day - Projects
+### 1. Day - Project
 
 1. [Intro](day1_intro)
 
@@ -126,5 +126,22 @@ Screenshot of output:
 <p align="center">Output: Homework</p>
 
 <p align="center"><img src="images/day5_homework.png" width="720"></p>
+
+---
+
+### 6. Day - Project
+
+1. [Northwind](day6_northwind)
+
+Through this project, I've started to learn about:
+-	Spring Framework and Lombok
+-   Autowired of Spring and how API handles requests
+-	PostgreSQL and annotations in Java.
+
+Screenshot of output:
+
+<p align="center">Output: Northwind</p>
+
+<p align="center"><img src="images/day6_northwind.png" width="720"></p>
 
 ---
