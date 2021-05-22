@@ -150,10 +150,12 @@ Screenshot of output:
 
 1. [Northwind](day7_northwind2)
 
-Through this project, I've started to learn about:
--	Learned about Swagger. 
--	Learned how to add Swagger and its dependencies to project. 
--	Learned how to write API call result manager and its logic.
+Through this project, I've learned:
+-	about Swagger. 
+-	how to add Swagger and its dependencies to project. 
+-	how to write API call result manager and its logic.
+-   how to add data to database via API request.
+-   how to create constructor with Lombok.
 
 Screenshot of output:
 
