@@ -145,3 +145,20 @@ Screenshot of output:
 <p align="center"><img src="images/day6_northwind.png" width="720"></p>
 
 ---
+
+### 7. Day - Project
+
+1. [Northwind](day7_northwind2)
+
+Through this project, I've started to learn about:
+-	Learned about Swagger. 
+-	Learned how to add Swagger and its dependencies to project. 
+-	Learned how to write API call result manager and its logic.
+
+Screenshot of output:
+
+<p align="center">Output: Northwind</p>
+
+//
+
+---
