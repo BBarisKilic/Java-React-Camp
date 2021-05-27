@@ -1,7 +1,6 @@
 package kodlamaio.northwind.entities.concretes;
 
 import lombok.AllArgsConstructor;
-import lombok.CustomLog;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
