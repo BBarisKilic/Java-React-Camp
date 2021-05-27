@@ -9,15 +9,21 @@ import java.util.List;
 
 public interface ProductService {
     DateResult<List<Product>> getAll();
+
+    DateResult<List<Product>> getAllSorted();
+
+    DateResult<List<Product>> getAll(int pageNo, int pageSize);
+
+
     Result add(Product product);
 
     DateResult<Product> getByProductName(String productName);
 
-    DateResult<Product> getByProductNameAndCategory(String productName, int categoryId);
+    DateResult<Product> getByProductNameAndCategoryId(String productName, int categoryId);
 
-    DateResult<List<Product>> getByProductNameOrCategory(String productName, int categoryId);
+    DateResult<List<Product>> getByProductNameOrCategoryId(String productName, int categoryId);
 
-    DateResult<List<Product>> getByCategoryIn(List<Integer> categories);
+    DateResult<List<Product>> getByCategoryIdIn(List<Integer> categories);
 
     DateResult<List<Product>> getByProductNameContains(String productName);
 
