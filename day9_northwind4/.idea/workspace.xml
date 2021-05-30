@@ -4,7 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cd9ea7-3bc1-4e18-9d89-f76b6ab5d344" name="Default Changelist" comment="" />
+    <list default="true" id="56cd9ea7-3bc1-4e18-9d89-f76b6ab5d344" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/api/controllers/ProductsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/business/abstracts/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/business/concretes/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/core/utilities/results/DateResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/core/utilities/results/ErrorDataResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/core/utilities/results/ErrorResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/core/utilities/results/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/core/utilities/results/SuccessDataResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/core/utilities/results/SuccessResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/dataAccess/abstracts/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/entities/concretes/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/entities/concretes/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kodlamaio/northwind/entities/dtos/ProductWithCategoryDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kodlamaio/northwind/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/api/controllers/ProductsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/business/abstracts/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/business/concretes/ProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/core/utilities/results/DateResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/core/utilities/results/ErrorDataResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/core/utilities/results/ErrorResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/core/utilities/results/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/core/utilities/results/SuccessDataResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/core/utilities/results/SuccessResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/dataAccess/abstracts/ProductDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/entities/concretes/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/entities/concretes/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/java/kodlamaio/northwind/entities/dtos/ProductWithCategoryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9_northwind4 copy/src/test/java/kodlamaio/northwind/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
