@@ -164,3 +164,22 @@ Screenshot of output:
 <p align="center"><img src="images/day7_northwind.png" width="720"></p>
 
 ---
+
+### 8. Day - Project
+
+1. [Northwind](day8_northwind3)
+
+Through this project, I've learned:
+-	about @OnetoOne and @OneToMany. 
+-	how to write JPA query.
+-	how to implement these queries to service and API controllers.
+
+Screenshot of output:
+
+<p align="center">Output: Northwind</p>
+
+<p align="center"><img src="images/day8_northwind.png" width="720"></p>
+
+<p align="center"><img src="images/day8_northwind2.png" width="720"></p>
+
+---
