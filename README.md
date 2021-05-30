@@ -161,6 +161,6 @@ Screenshot of output:
 
 <p align="center">Output: Northwind</p>
 
-//
+<p align="center"><img src="images/day7_northwind.png" width="720"></p>
 
 ---
