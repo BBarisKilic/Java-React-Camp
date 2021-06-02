@@ -183,3 +183,22 @@ Screenshot of output:
 <p align="center"><img src="images/day8_northwind2.png" width="720"></p>
 
 ---
+
+### 9. Day - Project
+
+1. [Northwind](day9_northwind4)
+
+Through this project, I've learned:
+-	about DTOs
+-	how to write SELECT query
+-   about Spring Boot Validation and ResponseEntity
+-   how to write Global Exception Handler
+-   about Spring Boot ExceptionHandler/FieldError and MethodArgumentNotValidException.
+
+Screenshot of output:
+
+<p align="center">Output: Northwind</p>
+
+Coming...
+
+---
