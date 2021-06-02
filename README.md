@@ -13,7 +13,7 @@ Take a look at camp details:
 
 ### 1. Day - Project
 
-1. [Intro](day1_intro)
+1. [Intro](day01_intro)
 
 Through this project, I've learned:
 -	variables
@@ -31,8 +31,8 @@ Screenshot of output:
 
 ### 2. Day - Projects
 
-1. [OopIntro](day2_oopIntro) 
-2. [Homework](day2_homework)
+1. [OopIntro](day02_oopIntro) 
+2. [Homework](day02_homework)
 
 Through these projects, I've learned:
 -	methods
@@ -54,9 +54,9 @@ Screenshot of output:
 
 ### 3. Day - Projects
 
-1. [Inheritance](day3_inheritance) 
-2. [Inheritance 2](day3_inheritance2)
-3. [Homework](day3_homework)
+1. [Inheritance](day03_inheritance) 
+2. [Inheritance 2](day03_inheritance2)
+3. [Homework](day03_homework)
 
 Through these projects, I've learned:
 -	getters
@@ -82,9 +82,9 @@ Screenshot of output:
 
 ### 4. Day - Projects
 
-1. [Interfaces](day4_interfaces) 
-2. [Homework](day4_homework)
-3. [Homework 2](day4_homework2)
+1. [Interfaces](day04_interfaces) 
+2. [Homework](day04_homework)
+3. [Homework 2](day04_homework2)
 
 Through these projects, I've learned:
 -	interfaces
@@ -109,8 +109,8 @@ Screenshot of output:
 
 ### 5. Day - Projects
 
-1. [N-Layered Demo](day5_nLayeredDemo) 
-2. [Homework](day5_homework)
+1. [N-Layered Demo](day05_nLayeredDemo) 
+2. [Homework](day05_homework)
 
 Through these projects, I've learned:
 -	N-Layered / 3-Layered Architecture
@@ -131,7 +131,7 @@ Screenshot of output:
 
 ### 6. Day - Project
 
-1. [Northwind](day6_northwind)
+1. [Northwind](day06_northwind)
 
 Through this project, I've started to learn about:
 -	Spring Framework and Lombok
@@ -148,7 +148,7 @@ Screenshot of output:
 
 ### 7. Day - Project
 
-1. [Northwind](day7_northwind2)
+1. [Northwind](day07_northwind2)
 
 Through this project, I've learned:
 -	about Swagger. 
@@ -167,7 +167,7 @@ Screenshot of output:
 
 ### 8. Day - Project
 
-1. [Northwind](day8_northwind3)
+1. [Northwind](day08_northwind3)
 
 Through this project, I've learned:
 -	about @OnetoOne and @OneToMany. 
@@ -186,7 +186,7 @@ Screenshot of output:
 
 ### 9. Day - Project
 
-1. [Northwind](day9_northwind4)
+1. [Northwind](day09_northwind4)
 
 Through this project, I've learned:
 -	about DTOs
