@@ -202,3 +202,22 @@ Screenshot of output:
 Coming...
 
 ---
+
+### 10. Day - Project
+
+1. [JavaScript](day10_advancedJavaScript)
+
+Through this project, I've learned:
+-	difference between "var" and "let" in ECMAScript
+-	functions in JavaScript
+-   Undefined in JavaScript
+-   Rest and Rest Parameter / Spread / Destructuring in JavaScript.
+-   Classes / Prototyping in JavaScript
+
+Screenshot of output:
+
+<p align="center">Output: JavaScript</p>
+
+Coming...
+
+---
