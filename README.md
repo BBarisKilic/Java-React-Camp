@@ -199,7 +199,9 @@ Screenshot of output:
 
 <p align="center">Output: Northwind</p>
 
-Coming...
+<p align="center"><img src="images/day9_northwind.png" width="720"></p>
+
+<p align="center"><img src="images/day9_northwind2.png" width="720"></p>
 
 ---
 
@@ -218,6 +220,23 @@ Screenshot of output:
 
 <p align="center">Output: JavaScript</p>
 
-Coming...
+<p align="center"><img src="images/day10_advancedJavaScript.png" width="360"></p>
+
+---
+
+### 11. Day - Project
+
+1. [ReactCampProject](day11_camp-project)
+
+Through this project, I've learned:
+-	about the fundamentals of React
+-	about the fundamentals of Semantic-UI
+-   how to get data to React App from API services.
+
+Screenshot of output:
+
+<p align="center">Output: ReactCampProject</p>
+
+<p align="center"><img src="images/day11_camp-project.png" width="720"></p>
 
 ---
