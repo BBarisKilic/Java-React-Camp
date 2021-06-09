@@ -1,4 +1,5 @@
 import './App.css';
+import React, { Component }  from 'react';
 import Dashboard from './layouts/Dashboard';
 import 'semantic-ui-css/semantic.min.css'
 import { Container } from 'semantic-ui-react';
